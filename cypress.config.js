@@ -1,4 +1,4 @@
 module.exports = {
-  'projectId': '4b7344',
-  e2e: {},
+  projectId: 'c3cdzt',
+  e2e: { specPattern: 'cypress/**/*.cy.{js,jsx,ts,tsx}' },
 }
